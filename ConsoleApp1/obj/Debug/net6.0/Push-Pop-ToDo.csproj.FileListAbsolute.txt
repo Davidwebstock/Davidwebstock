@@ -1,0 +1,4 @@
+C:\Users\Davit\source\repos\ConsoleApp1\obj\Debug\net6.0\Push-Pop-ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davit\source\repos\ConsoleApp1\obj\Debug\net6.0\Push-Pop-ToDo.AssemblyInfoInputs.cache
+C:\Users\Davit\source\repos\ConsoleApp1\obj\Debug\net6.0\Push-Pop-ToDo.AssemblyInfo.cs
+C:\Users\Davit\source\repos\ConsoleApp1\obj\Debug\net6.0\Push-Pop-ToDo.csproj.CoreCompileInputs.cache

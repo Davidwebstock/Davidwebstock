@@ -1,0 +1,15 @@
+C:\Users\Davit\source\repos\ConsoleApp1\bin\Release\net6.0\ToDoAPP.exe
+C:\Users\Davit\source\repos\ConsoleApp1\bin\Release\net6.0\ToDoAPP.deps.json
+C:\Users\Davit\source\repos\ConsoleApp1\bin\Release\net6.0\ToDoAPP.runtimeconfig.json
+C:\Users\Davit\source\repos\ConsoleApp1\bin\Release\net6.0\ToDoAPP.dll
+C:\Users\Davit\source\repos\ConsoleApp1\bin\Release\net6.0\ref\ToDoAPP.dll
+C:\Users\Davit\source\repos\ConsoleApp1\bin\Release\net6.0\ToDoAPP.pdb
+C:\Users\Davit\source\repos\ConsoleApp1\obj\Release\net6.0\ToDoAPP.csproj.AssemblyReference.cache
+C:\Users\Davit\source\repos\ConsoleApp1\obj\Release\net6.0\ToDoAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davit\source\repos\ConsoleApp1\obj\Release\net6.0\ToDoAPP.AssemblyInfoInputs.cache
+C:\Users\Davit\source\repos\ConsoleApp1\obj\Release\net6.0\ToDoAPP.AssemblyInfo.cs
+C:\Users\Davit\source\repos\ConsoleApp1\obj\Release\net6.0\ToDoAPP.csproj.CoreCompileInputs.cache
+C:\Users\Davit\source\repos\ConsoleApp1\obj\Release\net6.0\ToDoAPP.dll
+C:\Users\Davit\source\repos\ConsoleApp1\obj\Release\net6.0\ref\ToDoAPP.dll
+C:\Users\Davit\source\repos\ConsoleApp1\obj\Release\net6.0\ToDoAPP.pdb
+C:\Users\Davit\source\repos\ConsoleApp1\obj\Release\net6.0\ToDoAPP.genruntimeconfig.cache

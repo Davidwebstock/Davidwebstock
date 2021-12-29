@@ -1,0 +1,15 @@
+C:\Users\Davit\source\repos\ConsoleApp1\obj\Release\net6.0\Push-Pop-ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davit\source\repos\ConsoleApp1\obj\Release\net6.0\Push-Pop-ToDo.AssemblyInfoInputs.cache
+C:\Users\Davit\source\repos\ConsoleApp1\obj\Release\net6.0\Push-Pop-ToDo.AssemblyInfo.cs
+C:\Users\Davit\source\repos\ConsoleApp1\obj\Release\net6.0\Push-Pop-ToDo.csproj.CoreCompileInputs.cache
+C:\Users\Davit\source\repos\ConsoleApp1\bin\Release\net6.0\Push-Pop-ToDo.exe
+C:\Users\Davit\source\repos\ConsoleApp1\bin\Release\net6.0\Push-Pop-ToDo.deps.json
+C:\Users\Davit\source\repos\ConsoleApp1\bin\Release\net6.0\Push-Pop-ToDo.runtimeconfig.json
+C:\Users\Davit\source\repos\ConsoleApp1\bin\Release\net6.0\Push-Pop-ToDo.dll
+C:\Users\Davit\source\repos\ConsoleApp1\bin\Release\net6.0\ref\Push-Pop-ToDo.dll
+C:\Users\Davit\source\repos\ConsoleApp1\bin\Release\net6.0\Push-Pop-ToDo.pdb
+C:\Users\Davit\source\repos\ConsoleApp1\obj\Release\net6.0\Push-Pop-ToDo.dll
+C:\Users\Davit\source\repos\ConsoleApp1\obj\Release\net6.0\ref\Push-Pop-ToDo.dll
+C:\Users\Davit\source\repos\ConsoleApp1\obj\Release\net6.0\Push-Pop-ToDo.pdb
+C:\Users\Davit\source\repos\ConsoleApp1\obj\Release\net6.0\Push-Pop-ToDo.genruntimeconfig.cache
+C:\Users\Davit\source\repos\ConsoleApp1\obj\Release\net6.0\Push-Pop-ToDo.csproj.AssemblyReference.cache
